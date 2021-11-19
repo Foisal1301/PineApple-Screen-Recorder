@@ -1,1 +1,2 @@
-'# Screen Recorder with Python' 
+# PineApple Screen Recorder
+Using python
